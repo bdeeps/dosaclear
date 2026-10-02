@@ -1,0 +1,821 @@
+{
+ "title": "The history of the dosa",
+ "tagline": "From a word in old Tamil poems to a 37-metre record: how a fermented pancake became India's crisp golden sheet.",
+ "intro": "The dosa is old, but nobody can say exactly how old, or where it began. Tamil Nadu points to dosai in its early literature; Karnataka points to the dosaka of a 12th-century king and to the Udupi cooks who made it thin and crisp. Both claims have sources, and this page gives them side by side. Alongside runs a second story: the physics of water drops on hot iron and the chemistry of browning, worked out far from any tawa.",
+ "eras": [
+  {
+   "id": "word",
+   "name": "Dosai on the page",
+   "from": 100,
+   "to": 1600,
+   "color": "#ffb547",
+   "summary": "Tamil and Kannada writers and a Chalukya king record a pancake of rice and pulses. Where it began is still debated."
+  },
+  {
+   "id": "science",
+   "name": "Hot iron and browning",
+   "from": 1600,
+   "to": 1920,
+   "color": "#c49bff",
+   "summary": "The potato arrives, and far away physicians and chemists explain the dancing water drop and the golden-brown crust."
+  },
+  {
+   "id": "hotel",
+   "name": "The Udupi hotel century",
+   "from": 1920,
+   "to": 1980,
+   "color": "#5ce1a9",
+   "summary": "Cooks from Udupi open vegetarian hotels in every city, the masala dosa appears, and the wet grinder and the non-stick pan change the work."
+  },
+  {
+   "id": "world",
+   "name": "Packets, chains and machines",
+   "from": 1980,
+   "to": 2026,
+   "color": "#8ef0ff",
+   "summary": "Restaurant chains carry the dosa abroad, batter is sold chilled in packets, and engineers measure and automate the tawa."
+  }
+ ],
+ "events": [
+  {
+   "year": 100,
+   "date": "c. 1st century CE (debated)",
+   "era": "word",
+   "art": "scroll",
+   "key": true,
+   "title": "Dosai in the old Tamil country?",
+   "who": "Poets of the Sangam age, as read by K. T. Achaya",
+   "where": "Tamilakam, south India",
+   "country": "India",
+   "text": "The food historian K. T. Achaya wrote that references in Tamil Sangam literature show dosai was already eaten in the Tamil country around the first century CE. Other summaries of his work date the mention to late Sangam texts, about the 6th century. That early dosai was probably a soft pancake of rice, not today's crisp sheet.",
+   "why": "It is the basis of the Tamil claim to the dosa, and it is a claim about a word in old poems, so the date stays uncertain.",
+   "box": "family",
+   "sources": [
+    0,
+    21
+   ]
+  },
+  {
+   "year": 750,
+   "date": "8th century",
+   "era": "word",
+   "art": "quill",
+   "key": false,
+   "title": "The first clear mention by name",
+   "who": "Tamil writers",
+   "where": "Present-day Tamil Nadu",
+   "country": "India",
+   "text": "According to Achaya, the earliest plain written mention of dosa is in Tamil literature of the 8th century. Kannada literature mentions it about a century later.",
+   "why": "From here on the word is on the page, in two south Indian languages, a thousand years before the masala dosa.",
+   "box": "",
+   "sources": [
+    0
+   ]
+  },
+  {
+   "year": 1129,
+   "date": "completed 1129",
+   "era": "word",
+   "art": "scroll",
+   "key": true,
+   "title": "A king writes down dosaka",
+   "who": "Someshvara III, Western Chalukya king",
+   "where": "Kalyani, present-day Karnataka",
+   "country": "India",
+   "text": "The Sanskrit encyclopaedia Manasollasa, completed in 1129 by King Someshvara III, has a long section on food. It describes dosaka, along with iddarika (idli) and vataka (vada), and a range of dishes made by fermenting cereals and pulses.",
+   "why": "It is the oldest surviving recipe-like description of a dosa, and it comes from Karnataka, which is why both states can point to an old text.",
+   "box": "batter",
+   "sources": [
+    5,
+    0
+   ]
+  },
+  {
+   "year": 1615,
+   "date": "1615",
+   "era": "science",
+   "art": "leaf",
+   "key": false,
+   "title": "The potato reaches an Indian table",
+   "who": "Edward Terry, chaplain to Sir Thomas Roe",
+   "where": "Ajmer, Rajasthan",
+   "country": "India",
+   "text": "The potato is a plant of the Americas. It came to India with the Portuguese, and the first written mention usually cited is the English chaplain Edward Terry's account of a banquet at Ajmer in 1615. We read this from a summary of a press article and could not check Terry's text.",
+   "why": "No potato, no masala dosa. The filling that defines the world's best-known dosa can be a few centuries old at most.",
+   "box": "family",
+   "sources": [
+    24,
+    1
+   ]
+  },
+  {
+   "year": 1732,
+   "date": "1732",
+   "era": "science",
+   "art": "waterdrop",
+   "key": false,
+   "title": "A drop that will not boil away",
+   "who": "Hermann Boerhaave",
+   "where": "Leiden",
+   "country": "Netherlands",
+   "text": "The Dutch physician and chemist Hermann Boerhaave reported that a drop of liquid on metal much hotter than its boiling point lasts far longer than one on cooler metal.",
+   "why": "It is the first report of what every dosa cook sees when water beads and dances on an overheated tawa.",
+   "box": "tawa",
+   "sources": [
+    7
+   ]
+  },
+  {
+   "year": 1756,
+   "date": "1756",
+   "era": "science",
+   "art": "flame",
+   "key": true,
+   "title": "Leidenfrost and the red-hot spoon",
+   "who": "Johann Gottlob Leidenfrost",
+   "where": "Duisburg",
+   "country": "Germany",
+   "text": "The German doctor Johann Gottlob Leidenfrost published A Tract About Some Qualities of Common Water. He heated an iron spoon red-hot, put a drop of water in it and timed it with a pendulum. The first drop lasted about 30 seconds, the next about 10, later ones only a few seconds as the spoon cooled.",
+   "why": "The effect carries his name. A drop floating on its own steam is the cook's sign that the tawa is too hot to spread batter.",
+   "box": "tawa",
+   "sources": [
+    7,
+    6
+   ]
+  },
+  {
+   "year": 1912,
+   "date": "1912",
+   "era": "science",
+   "art": "flask",
+   "key": true,
+   "title": "Why food browns",
+   "who": "Louis-Camille Maillard",
+   "where": "Paris",
+   "country": "France",
+   "text": "The French chemist Louis-Camille Maillard described the reaction between sugars and amino acids that makes brown pigments. It runs fast from about 140 to 165 °C.",
+   "why": "It is the chemistry of a dosa's golden colour and roasted smell, and it explains why the base cannot brown until it is dry.",
+   "box": "cook",
+   "sources": [
+    8
+   ]
+  },
+  {
+   "year": 1921,
+   "date": "1921",
+   "era": "hotel",
+   "art": "building",
+   "key": false,
+   "title": "Dasaprakash opens in Mysore",
+   "who": "K. Seetharama Rao",
+   "where": "Mysuru, Karnataka",
+   "country": "India",
+   "text": "K. Seetharama Rao founded Dasaprakash in Mysore, one of the first of the Udupi-style vegetarian hotels that would carry idli, vada and dosa out of homes and temple kitchens.",
+   "why": "The Udupi hotel became the dosa's vehicle: a clean, cheap, vegetarian eating house that could be copied in any city.",
+   "box": "",
+   "sources": [
+    2
+   ]
+  },
+  {
+   "year": 1923,
+   "date": "1923",
+   "era": "hotel",
+   "art": "wave",
+   "key": false,
+   "title": "A flood sends Udupi's cooks to the cities",
+   "who": "People of Udupi",
+   "where": "Udupi, Karnataka",
+   "country": "India",
+   "text": "By Wikipedia's account, a devastating flood at Udupi in 1923 pushed many people to leave for Bombay, Madras, Mysore and Bangalore. Cooks trained in the tradition of the Udupi Krishna temple found work in eating houses and then opened their own.",
+   "why": "Migration, more than any single recipe, is what spread the thin, crisp Karnataka-style dosa across India.",
+   "box": "",
+   "sources": [
+    2
+   ]
+  },
+  {
+   "year": 1924,
+   "date": "1924",
+   "era": "hotel",
+   "art": "building",
+   "key": true,
+   "title": "Brahmin Coffee Club, later MTR",
+   "who": "Parampalli Yagnanarayana Maiya and his brothers",
+   "where": "Bengaluru, Karnataka",
+   "country": "India",
+   "text": "The Maiya brothers opened a small eatery called the Brahmin Coffee Club. In 1960 it took the name Mavalli Tiffin Rooms, MTR. During the rice shortage of the Second World War it tried semolina in place of rice and came up with rava idli.",
+   "why": "MTR became one of the best-known dosa houses in India, and a century later it would set the record for the longest dosa.",
+   "box": "",
+   "sources": [
+    4
+   ]
+  },
+  {
+   "year": 1926,
+   "date": "1926 (some accounts say later)",
+   "era": "hotel",
+   "art": "person",
+   "key": true,
+   "title": "Krishna Rao opens on Mount Road",
+   "who": "Kadandale Krishna Rao",
+   "where": "Madras (Chennai), Tamil Nadu",
+   "country": "India",
+   "text": "Krishna Rao came from Udupi to Madras in the early 1920s and ground idli batter in an eatery in George Town. In 1926, by most accounts, he opened Udupi Sri Krishna Vilas on Mount Road; one account gives 1939. He went on to run Woodlands, opened in 1938 in Royapettah, and then New Woodlands.",
+   "why": "His hotels started what Chennai writers call the Udupi revolution in the city's eating out.",
+   "box": "",
+   "sources": [
+    3,
+    26,
+    2
+   ]
+  },
+  {
+   "year": 1927,
+   "date": "1927 or 1928",
+   "era": "hotel",
+   "art": "plate",
+   "key": false,
+   "title": "Chennamma's dose in Davangere",
+   "who": "Chennamma",
+   "where": "Davanagere, Karnataka",
+   "country": "India",
+   "text": "A cook named Chennamma moved from the village of Beedaki to Davangere and opened a small eatery near the Savalagi drama theatre. Her dose were made with ragi (finger millet) and cooked in ghee. Sources give the year as 1927 or 1928.",
+   "why": "It is the root of Davanagere benne dose, one of the most loved members of the dosa family.",
+   "box": "family",
+   "sources": [
+    12
+   ]
+  },
+  {
+   "year": 1935,
+   "date": "1930s (attributed)",
+   "era": "hotel",
+   "art": "plate",
+   "key": true,
+   "title": "The masala dosa",
+   "who": "Credited to Kadandale Krishna Rao",
+   "where": "Madras (Chennai), Tamil Nadu",
+   "country": "India",
+   "text": "The masala dosa, a crisp dosa folded round spiced potato, is widely credited to Krishna Rao's Udupi hotels in Madras in the 1930s. Legends also place it in the kitchen of a 12th-century king, but that cannot be right: the potato had not reached India then. Nobody has a dated first menu, so 'credited' is the honest word.",
+   "why": "It became the dosa the whole world knows.",
+   "box": "family",
+   "sources": [
+    1,
+    3
+   ]
+  },
+  {
+   "year": 1938,
+   "date": "1938",
+   "era": "hotel",
+   "art": "molecule",
+   "key": false,
+   "title": "A slippery white powder",
+   "who": "Roy Plunkett, DuPont",
+   "where": "DuPont laboratory",
+   "country": "United States",
+   "text": "The chemist Roy Plunkett found by accident that a cylinder of refrigerant gas had turned into a white, waxy, extremely slippery solid: PTFE, later sold as Teflon.",
+   "why": "It is the coating of the non-stick tawa, which lets a beginner lift the very first dosa.",
+   "box": "crisp",
+   "sources": [
+    9
+   ]
+  },
+  {
+   "year": 1943,
+   "date": "1943",
+   "era": "hotel",
+   "art": "building",
+   "key": false,
+   "title": "Vidyarthi Bhavan",
+   "who": "Venkataramana Ural",
+   "where": "Gandhi Bazaar, Bengaluru",
+   "country": "India",
+   "text": "A small tiffin room opened in Basavanagudi to feed students from outside the city. Its thick, crisp, buttery masala dosa, made with a batter of red rice, methi and urad dal, still draws queues.",
+   "why": "It shows how much a dosa depends on the batter: change the rice and the ratio and you have a house style.",
+   "box": "batter",
+   "sources": [
+    14
+   ]
+  },
+  {
+   "year": 1944,
+   "date": "1944",
+   "era": "hotel",
+   "art": "plate",
+   "key": false,
+   "title": "Benne dose gets its rice batter",
+   "who": "Shanthappa and Mahadevappa",
+   "where": "Davanagere, Karnataka",
+   "country": "India",
+   "text": "Chennamma's sons took over her eatery in the 1940s and replaced ragi with rice, which was easier to get. In 1944 Shanthappa opened Shantappa Dosa Hotel, one of the oldest benne dose places in the city. Today the batter is parboiled rice, urad dal and puffed rice.",
+   "why": "A change of grain made a new dosa: small, thick, crisp outside and cooked in white butter.",
+   "box": "family",
+   "sources": [
+    12
+   ]
+  },
+  {
+   "year": 1953,
+   "date": "1953",
+   "era": "hotel",
+   "art": "molecule",
+   "key": false,
+   "title": "The browning reaction mapped",
+   "who": "John E. Hodge",
+   "where": "Peoria, Illinois",
+   "country": "United States",
+   "text": "John E. Hodge, a chemist at the US Department of Agriculture, set out the mechanism of the Maillard reaction step by step.",
+   "why": "His scheme is still how food scientists explain browning, from a dosa's base to a bread crust.",
+   "box": "cook",
+   "sources": [
+    8
+   ]
+  },
+  {
+   "year": 1954,
+   "date": "1954–1956",
+   "era": "hotel",
+   "art": "burner",
+   "key": false,
+   "title": "The non-stick pan",
+   "who": "A French engineer and his wife, Colette; the Tefal company",
+   "where": "France",
+   "country": "France",
+   "text": "A French engineer who coated his fishing gear with PTFE was urged by his wife, Colette, to try it on her cooking pans. A French patent was granted in 1954, and the company Tefal was set up in 1956 to make the pans.",
+   "why": "Non-stick cookware reached kitchens everywhere, India's included. The coating starts to break down above about 260 °C, so such a tawa must not be heated empty.",
+   "box": "crisp",
+   "sources": [
+    9
+   ]
+  },
+  {
+   "year": 1955,
+   "date": "1955",
+   "era": "hotel",
+   "art": "mixer",
+   "key": true,
+   "title": "The wet grinder",
+   "who": "P. Sabapathy",
+   "where": "Coimbatore, Tamil Nadu",
+   "country": "India",
+   "text": "P. Sabapathy developed a motor-driven wet grinder in Coimbatore: stone rollers turning in a stone drum, doing the work of the hand-turned grinding stone. Lakshmi Grinders made it a commercial success from 1963, and R. Doraiswamy added the tilting drum in 1975.",
+   "why": "Grinding batter had been an hour of hard labour. The machine made idli and dosa an everyday breakfast, and later made the batter business possible.",
+   "box": "batter",
+   "sources": [
+    11
+   ]
+  },
+  {
+   "year": 1965,
+   "date": "1965",
+   "era": "hotel",
+   "art": "word",
+   "key": false,
+   "title": "Leidenfrost, in English at last",
+   "who": "Translators of Leidenfrost's tract",
+   "where": "",
+   "country": "United States",
+   "text": "Leidenfrost's Latin tract of 1756 was not translated until 1965, which is one reason it was so little read for two centuries.",
+   "why": "The physics of the dancing water drop only became common classroom knowledge in living memory.",
+   "box": "tawa",
+   "sources": [
+    7
+   ]
+  },
+  {
+   "year": 1981,
+   "date": "1981",
+   "era": "world",
+   "art": "building",
+   "key": false,
+   "title": "Saravana Bhavan",
+   "who": "P. Rajagopal",
+   "where": "K. K. Nagar, Chennai",
+   "country": "India",
+   "text": "P. Rajagopal, who had run a grocery shop, opened his first restaurant in K. K. Nagar. The chain's first overseas branch opened in Dubai in 2000, and it now runs restaurants in more than 25 countries.",
+   "why": "It took the Tamil-style dosa, with its sambar and chutneys, to Indian communities around the world.",
+   "box": "",
+   "sources": [
+    15
+   ]
+  },
+  {
+   "year": 1997,
+   "date": "1997",
+   "era": "world",
+   "art": "share",
+   "key": false,
+   "title": "Dosa Plaza",
+   "who": "Prem Ganapathy",
+   "where": "Vashi, Navi Mumbai",
+   "country": "India",
+   "text": "Prem Ganapathy, who had come to Mumbai from Tamil Nadu and sold dosas from a cart, leased a small shop in Vashi and began inventing new fillings. The chain that grew from it sells dozens of fusion dosas in India and abroad.",
+   "why": "The dosa turned out to be a format: a crisp wrapper that can carry almost any filling.",
+   "box": "family",
+   "sources": [
+    16
+   ]
+  },
+  {
+   "year": 2003,
+   "date": "2003",
+   "era": "world",
+   "art": "waterdrop",
+   "key": false,
+   "title": "Measuring the steam cushion",
+   "who": "Anne-Laure Biance, Christophe Clanet and David Quéré",
+   "where": "Paris",
+   "country": "France",
+   "text": "Three physicists measured the shape and lifetime of Leidenfrost drops and the thickness of the vapour layer under them, and gave scaling laws for how long the drops last. Later accounts quote layers of roughly 30 to 100 micrometres. We read this from summaries, not the paper itself.",
+   "why": "It put numbers on the thing a cook sees: a bead of water riding on a film of steam thinner than a hair.",
+   "box": "tawa",
+   "sources": [
+    25
+   ]
+  },
+  {
+   "year": 2005,
+   "date": "2005",
+   "era": "world",
+   "art": "fridge",
+   "key": true,
+   "title": "Batter in a packet",
+   "who": "P. C. Musthafa and his cousins, iD Fresh Food",
+   "where": "Bengaluru, Karnataka",
+   "country": "India",
+   "text": "Five cousins began grinding idli and dosa batter in a small kitchen and selling it in sealed one-kilogram packets to about twenty shops. By 2016 the company was making about 50,000 kg of batter a day.",
+   "why": "Chilled, packaged batter moved the grinding and the overnight ferment out of the home, the biggest change to the dosa in a generation.",
+   "box": "batter",
+   "sources": [
+    17
+   ]
+  },
+  {
+   "year": 2006,
+   "date": "2005–06",
+   "era": "world",
+   "art": "gear",
+   "key": false,
+   "title": "A GI tag for the Coimbatore wet grinder",
+   "who": "Government of India; Coimbatore's grinder makers",
+   "where": "Coimbatore, Tamil Nadu",
+   "country": "India",
+   "text": "The Coimbatore Wet Grinder was registered as a Geographical Indication. By 2015 the city had more than 700 makers turning out about 75,000 grinders a month, three-quarters of India's output.",
+   "why": "A kitchen machine built for one batter had become an industry with a protected name.",
+   "box": "",
+   "sources": [
+    11
+   ]
+  },
+  {
+   "year": 2011,
+   "date": "2011",
+   "era": "world",
+   "art": "flask",
+   "key": false,
+   "title": "The batter, measured",
+   "who": "D. Ghosh and P. Chattopadhyay",
+   "where": "",
+   "country": "India",
+   "text": "Two food technologists measured rice and urad batter through 22 hours of fermenting. The pH fell from 5.9 to 4.2, the volume rose 1.6 to 3.2 times, and the batter was shear-thinning: it flows more easily the faster it is stirred.",
+   "why": "Those numbers sit under this box's batter and spreading models.",
+   "box": "spread",
+   "sources": [
+    19
+   ]
+  },
+  {
+   "year": 2012,
+   "date": "2012",
+   "era": "world",
+   "art": "motor",
+   "key": false,
+   "title": "A dosa at the press of a button",
+   "who": "Eshwar K. Vikas and Sudeep Sabat, Mukunda Foods",
+   "where": "Chennai and Bengaluru",
+   "country": "India",
+   "text": "Two engineering graduates who had run a small dosa restaurant chain founded Mukunda Foods and built DosaMatic, a tabletop machine that pours batter, spreads it, oils it and rolls up the cooked dosa. CFTRI in Mysuru has patented a larger machine with a revolving hot plate that makes about 400 dosas an hour. Read from company profiles and summaries.",
+   "why": "The ladle's spiral, the one step that needed a trained hand, was turned into a mechanism.",
+   "box": "spread",
+   "sources": [
+    23,
+    22
+   ]
+  },
+  {
+   "year": 2014,
+   "date": "16 November 2014",
+   "era": "world",
+   "art": "trophy",
+   "key": false,
+   "title": "A 16.68 metre dosa",
+   "who": "29 chefs at Hotel Daspalla",
+   "where": "Hyderabad, Telangana",
+   "country": "India",
+   "text": "Twenty-nine chefs made a dosa 16.68 metres long, weighing 13.69 kg, and took the Guinness World Record for the longest dosa.",
+   "why": "A single even film that long means holding a very long hot plate at one temperature: the tawa problem, scaled up.",
+   "box": "tawa",
+   "sources": [
+    0
+   ]
+  },
+  {
+   "year": 2015,
+   "date": "2015",
+   "era": "world",
+   "art": "thermometer",
+   "key": false,
+   "title": "How heat reaches a dosa",
+   "who": "K. Venkateshmurthy and K. S. M. S. Raghavarao, CSIR-CFTRI",
+   "where": "Mysuru, Karnataka",
+   "country": "India",
+   "text": "Engineers studying a dosa-making machine worked out how heat gets into the dosa. Conduction from the hot plate was by far the most important path. They measured the dosa's thermal conductivity at 0.42 W/m·K and its emissivity at 0.31.",
+   "why": "It confirms what the cook knows: the dosa is made by contact with the iron, so the state of that surface is everything.",
+   "box": "cook",
+   "sources": [
+    20
+   ]
+  },
+  {
+   "year": 2024,
+   "date": "15 March 2024",
+   "era": "world",
+   "art": "trophy",
+   "key": true,
+   "title": "The longest dosa: 37.5 metres",
+   "who": "MTR Foods and Lorman Kitchen Equipments",
+   "where": "Bommasandra, Bengaluru",
+   "country": "India",
+   "text": "To mark 100 years of MTR, a team of 75 chefs made a dosa 37.5 metres (123 feet) long on a specially built induction hot plate. It more than doubled the previous record.",
+   "why": "A dish first written down about nine centuries ago is still setting records, on a hot plate with no flame at all.",
+   "box": "tawa",
+   "sources": [
+    18,
+    27
+   ]
+  }
+ ],
+ "firsts": [
+  {
+   "label": "Oldest surviving description of a dosa-like dish in a dated text",
+   "value": "1129",
+   "who": "Manasollasa of Someshvara III, Karnataka (dosaka)"
+  },
+  {
+   "label": "Earliest clear mention by name, according to K. T. Achaya",
+   "value": "8th century",
+   "who": "Tamil literature"
+  },
+  {
+   "label": "First report of long-lived drops on very hot metal",
+   "value": "1732",
+   "who": "Hermann Boerhaave, Netherlands"
+  },
+  {
+   "label": "First motor-driven wet grinder",
+   "value": "1955",
+   "who": "P. Sabapathy, Coimbatore"
+  },
+  {
+   "label": "Longest dosa on record",
+   "value": "37.5 m, 2024",
+   "who": "MTR Foods and Lorman Kitchen Equipments, Bengaluru"
+  }
+ ],
+ "people": [
+  {
+   "name": "K. T. Achaya",
+   "life": "1923 – 2002",
+   "role": "Oil chemist and food historian",
+   "from": "India",
+   "note": "His Indian Food: A Historical Companion (1994) and A Historical Dictionary of Indian Food (1998) are the starting point for almost every history of the dosa."
+  },
+  {
+   "name": "Someshvara III",
+   "life": "reigned 1126 – 1138",
+   "role": "Western Chalukya king and author",
+   "from": "Karnataka, India",
+   "note": "His encyclopaedia Manasollasa records dosaka, iddarika and vataka among the dishes of his court."
+  },
+  {
+   "name": "Johann Gottlob Leidenfrost",
+   "life": "1715 – 1794",
+   "role": "Physician and professor",
+   "from": "Germany",
+   "note": "He timed water drops in a red-hot iron spoon with a pendulum and gave his name to the effect."
+  },
+  {
+   "name": "Louis-Camille Maillard",
+   "life": "1878 – 1936",
+   "role": "Physician and chemist",
+   "from": "France",
+   "note": "He described the reaction between sugars and amino acids that browns a dosa."
+  },
+  {
+   "name": "Kadandale Krishna Rao",
+   "life": "20th century",
+   "role": "Restaurateur",
+   "from": "Udupi, India",
+   "note": "He went from grinding idli batter in Madras to founding Woodlands, and is widely credited with the masala dosa."
+  },
+  {
+   "name": "Chennamma",
+   "life": "20th century",
+   "role": "Cook and eatery owner",
+   "from": "Karnataka, India",
+   "note": "Her small eatery in Davangere in the late 1920s grew into the tradition of benne dose."
+  },
+  {
+   "name": "P. Sabapathy",
+   "life": "20th century",
+   "role": "Inventor",
+   "from": "Coimbatore, India",
+   "note": "He developed the motor-driven wet grinder in 1955 and took the hard labour out of making batter."
+  },
+  {
+   "name": "John E. Hodge",
+   "life": "1914 – 1996",
+   "role": "Chemist",
+   "from": "United States",
+   "note": "An African-American chemist at the US Department of Agriculture, he set out the mechanism of the Maillard reaction in 1953."
+  }
+ ],
+ "series": [
+  {
+   "id": "batter",
+   "title": "Batter made each day by one packaged-batter company",
+   "unit": "kg per day",
+   "log": true,
+   "after": "world",
+   "caption": "iD Fresh Food's own figures, as reported on Wikipedia. One company, not the whole market: it shows how fast ready batter caught on.",
+   "points": [
+    {
+     "year": 2005,
+     "value": 10,
+     "label": "2005: ten one-kilogram packets a day"
+    },
+    {
+     "year": 2008,
+     "value": 2000,
+     "label": "2007–08: about 2,000 kg a day"
+    },
+    {
+     "year": 2016,
+     "value": 50000,
+     "label": "2016: about 50,000 kg a day"
+    }
+   ]
+  }
+ ],
+ "facts": [
+  "The potato in a masala dosa is an American plant. The dish can be a few centuries old at most, however old the dosa is.",
+  "Leidenfrost timed his water drops with a pendulum in 1756. His tract was not translated from Latin until 1965.",
+  "Tamil Nadu's traditional dosai is soft and thick. The thin, crisp dosa that spread across India was first made in Karnataka, according to Wikipedia's summary of the food historians.",
+  "A water drop on a tawa at 210 °C can last about a minute. On a tawa at 150 °C it is gone in a second or two.",
+  "The world's longest dosa, 37.5 metres, was cooked in 2024 on an induction hot plate with no flame."
+ ],
+ "sources": [
+  {
+   "title": "Dosa (food)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dosa_(food)"
+  },
+  {
+   "title": "Masala dosa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Masala_dosa"
+  },
+  {
+   "title": "Udupi cuisine",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Udupi_cuisine"
+  },
+  {
+   "title": "New Woodlands Hotel",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/New_Woodlands_Hotel"
+  },
+  {
+   "title": "Mavalli Tiffin Room",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mavalli_Tiffin_Room"
+  },
+  {
+   "title": "Manasollasa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Manasollasa"
+  },
+  {
+   "title": "Leidenfrost effect",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Leidenfrost_effect"
+  },
+  {
+   "title": "Jearl Walker, Boiling and the Leidenfrost Effect (essay from Halliday & Resnick, Fundamentals of Physics)",
+   "publisher": "California State University, Chico (course handout)",
+   "url": "https://physics.csuchico.edu/ayars/427/handouts/Leidenfrost_Walker.pdf"
+  },
+  {
+   "title": "Maillard reaction",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Maillard_reaction"
+  },
+  {
+   "title": "Non-stick surface",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Non-stick_surface"
+  },
+  {
+   "title": "Seasoning (cookware)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Seasoning_(cookware)"
+  },
+  {
+   "title": "Coimbatore Wet Grinder",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Coimbatore_Wet_Grinder"
+  },
+  {
+   "title": "Benne dose",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Benne_dose"
+  },
+  {
+   "title": "Central Tiffin Room",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Central_Tiffin_Room"
+  },
+  {
+   "title": "Vidyarthi Bhavan",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vidyarthi_Bhavan"
+  },
+  {
+   "title": "Saravanaa Bhavan",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Saravanaa_Bhavan"
+  },
+  {
+   "title": "Dosa Plaza",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dosa_plaza"
+  },
+  {
+   "title": "iD Fresh Food",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/ID_Fresh_Food"
+  },
+  {
+   "title": "Longest dosa",
+   "publisher": "Guinness World Records",
+   "url": "https://www.guinnessworldrecords.com/world-records/longest-dosa"
+  },
+  {
+   "title": "Ghosh & Chattopadhyay, Preparation of idli batter, its properties and nutritional improvement during fermentation (J. Food Sci. Technol. 48: 610–615, 2011)",
+   "publisher": "PubMed Central, US National Library of Medicine",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3551127"
+  },
+  {
+   "title": "Venkateshmurthy & Raghavarao, Analysis of modes of heat transfer in baking Indian rice pan cake (Dosa), a breakfast food (J. Food Sci. Technol. 52: 5357–5363, 2015)",
+   "publisher": "Indian Academy of Sciences repository",
+   "url": "https://repository.ias.ac.in/105445"
+  },
+  {
+   "title": "K. T. Achaya",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/K._T._Achaya"
+  },
+  {
+   "title": "Dosa making unit (technology sheet)",
+   "publisher": "CSIR-Central Food Technological Research Institute, Mysuru",
+   "url": "https://www.cftri.res.in/kweb/technologies/FM/dmu.pdf"
+  },
+  {
+   "title": "Mukunda Foods (company profile)",
+   "publisher": "YourStory",
+   "url": "https://yourstory.com/companies/mukunda-foods"
+  },
+  {
+   "title": "Favoured alike by kings and commoners (history of the potato in India)",
+   "publisher": "India Environment Portal, Centre for Science and Environment",
+   "url": "https://indiaenvironmentportal.org.in/news-clippings/favoured-alike-by-kings-and-commoners"
+  },
+  {
+   "title": "Biance, Clanet & Quéré, Leidenfrost drops (Physics of Fluids 15: 1632, 2003)",
+   "publisher": "Institut Polytechnique de Paris research portal",
+   "url": "https://researchportal.ip-paris.fr/en/publications/leidenfrost-drops/"
+  },
+  {
+   "title": "Krishna Rao of Woodlands: man who took iconic Udupi cuisine to global palate",
+   "publisher": "DT Next",
+   "url": "https://www.dtnext.in/city/2021/01/03/krishna-rao-of-woodlands--man-who-took-iconic-udupi-cuisine-to-global-palate"
+  },
+  {
+   "title": "World record for 123-foot-long dosa set in Bommasandra",
+   "publisher": "M. S. Ramaiah University of Applied Sciences (press)",
+   "url": "https://msruas.ac.in/press/world-record-for-123-foot-long-dosa-set-in-bommasandra"
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "dosaclear",
+  "box": 127,
+  "question": "How is a dosa made?",
+  "url": "https://glassbox.how/e/dosaclear/",
+  "app": "https://glassbox.how/dosaclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From a word in old Tamil poems to a 37-metre record: how a fermented pancake became India's crisp golden sheet.\n\n100: Dosai in the old Tamil country?\n1129: A king writes down dosaka\n1756: Leidenfrost and the red-hot spoon\n1912: Why food browns\n1924: Brahmin Coffee Club, later MTR\n1926: Krishna Rao opens on Mount Road\n\nThe full story, with 30 moments, sources and charts: glassbox.how/e/dosaclear/history (link in bio)\n\nThen play with how it works: glassbox.how/dosaclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #dosa #dosai #tawa #leidenfrosteffect #maillardreaction #fermentation #history",
+      "youtube": {
+        "title": "The history of the dosa in 45 seconds #shorts",
+        "description": "From a word in old Tamil poems to a 37-metre record: how a fermented pancake became India's crisp golden sheet.\n\n100 · Dosai in the old Tamil country? (Poets of the Sangam age, as read by K. T. Achaya)\n1129 · A king writes down dosaka (Someshvara III, Western Chalukya king)\n1756 · Leidenfrost and the red-hot spoon (Johann Gottlob Leidenfrost)\n1912 · Why food browns (Louis-Camille Maillard)\n1924 · Brahmin Coffee Club, later MTR (Parampalli Yagnanarayana Maiya and his brothers)\n1926 · Krishna Rao opens on Mount Road (Kadandale Krishna Rao)\n\n▶ Full history: https://glassbox.how/e/dosaclear/history/\n▶ Play with it: https://glassbox.how/e/dosaclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How is a dosa made?\n\nA dosa is one ladle of sour batter turned into a crisp golden sheet in ninety seconds. Flick water on the tawa and watch the drops dance, walk the ladle out in a spiral to a film one millimetre thick, then cook it yourself: steam out through the lace, a crust climbing from the iron, and browning that cannot start until the base is dry.\n\n→ A dosa is rice, urad dal and water, fermented overnight. Cut one open: a crisp brown base, a lace of holes, a soft pale top.\n→ A dosa tawa is a heavy slab of iron. Flick water on it: under about 200 °C the drops hiss and vanish in a second.\n→ Hotter still, the drops float on their own steam and dance for a minute. That is the Leidenfrost effect, and it means: too hot.\n→ One ladle, one spiral, three seconds. 70 mL spread to a 13 cm radius makes a film just 1.3 mm thick.\n→ On the tawa the film hits 100 °C in seconds. Water boils out as steam through the holes the ferment left.\n\nPlay with it yourself. It's free and open source: glassbox.how/dosaclear (link in bio)\n\nBox No. 127 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #dosa #dosai #tawa #leidenfrosteffect #maillardreaction #fermentation #batter #castiron #foodscience",
+    "carousel": "Swipe through: How is a dosa made?\n\nA dosa is one ladle of sour batter turned into a crisp golden sheet in ninety seconds. Flick water on the tawa and watch the drops dance, walk the ladle out in a spiral to a film one millimetre thick, then cook it yourself: steam out through the lace, a crust climbing from the iron, and browning that cannot start until the base is dry.\n\nSave this for later, then play with the interactive version at glassbox.how/dosaclear (link in bio).\n\nBox No. 127 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #dosa #dosai #tawa #leidenfrosteffect #maillardreaction #fermentation",
+    "youtube": {
+      "title": "How is a dosa made? #shorts",
+      "description": "A dosa is one ladle of sour batter turned into a crisp golden sheet in ninety seconds. Flick water on the tawa and watch the drops dance, walk the ladle out in a spiral to a film one millimetre thick, then cook it yourself: steam out through the lace, a crust climbing from the iron, and browning that cannot start until the base is dry.\n\n▶ Play with it: https://glassbox.how/e/dosaclear/\n⌘ Source code (MIT): https://github.com/bdeeps/dosaclear\n\nBox No. 127 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How is a dosa made? (interactive explainer)",
+      "description": "A dosa is one ladle of sour batter turned into a crisp golden sheet in ninety seconds. Flick water on the tawa and watch the drops dance, walk the ladle out in a spiral to a film one millimetre thick, then cook it yourself: steam out through the lace, a crust climbing from the iron, and browning that cannot start until the base is dry.\n\n▶ Play with the interactive version: https://glassbox.how/e/dosaclear/\n⌘ Source code (MIT): https://github.com/bdeeps/dosaclear\n\nIn this video:\n• Batter, a crisp side and a soft side. Dosa batter is rice and urad dal ground wet, thinned to about 70% water and fermented overnight by wild lactic acid bacteria, which sour it and fill it with gas.\n• The tawa and the dancing drops. A 3 kg cast-iron tawa stores about 1.4 kJ for every degree, so cold batter does not chill it.\n• One ladle, one spiral. Thickness is volume divided by area: 70 mL spread to a 13 cm radius is a film 1.3 mm thick.\n• Steam out, crust up, colour in. While any batter is wet it is pinned at 100 °C, because the heat goes into steam (2,257 J per gram) that escapes through the holes.\n• Why the first fails and the last goes soft. Wet batter glues itself into the pores of bare iron.\n• A family, not one dish. Spread the same batter to half a millimetre and it is a paper roast; pour it thick and it is a set dosa or an uttapam.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How is a dosa made?\n\nA dosa is one ladle of sour batter turned into a crisp golden sheet in ninety seconds.\n\nPlay with it: https://glassbox.how/e/dosaclear/",
+    "linkedin": "How is a dosa made?\n\nA dosa is one ladle of sour batter turned into a crisp golden sheet in ninety seconds. Flick water on the tawa and watch the drops dance, walk the ladle out in a spiral to a film one millimetre thick, then cook it yourself: steam out through the lace, a crust climbing from the iron, and browning that cannot start until the base is dry.\n\n1. Batter, a crisp side and a soft side\n2. The tawa and the dancing drops\n3. One ladle, one spiral\n4. Steam out, crust up, colour in\n5. Why the first fails and the last goes soft\n6. A family, not one dish\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 127 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/dosaclear/\nCode: https://github.com/bdeeps/dosaclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-02T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-02T08:55:21.338Z"
+}

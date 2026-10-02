@@ -1,0 +1,107 @@
+{
+  "slug": "dosaclear",
+  "box": 127,
+  "date": "2026-10-17",
+  "title": "DosaClear",
+  "question": "How is a dosa made?",
+  "hook": "A dosa is one ladle of sour batter turned into a crisp golden sheet in ninety seconds. Flick water on the tawa and watch the drops dance, walk the ladle out in a spiral to a film one millimetre thick, then cook it yourself: steam out through the lace, a crust climbing from the iron, and browning that cannot start until the base is dry.",
+  "thumbText": "HOW A DOSA IS MADE",
+  "field": "chemistry",
+  "minutes": 15,
+  "tags": [
+    "dosa",
+    "dosai",
+    "tawa",
+    "Leidenfrost effect",
+    "Maillard reaction",
+    "fermentation",
+    "batter",
+    "cast iron",
+    "food science",
+    "Indian kitchen",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Batter, a crisp side and a soft side",
+      "text": "Dosa batter is rice and urad dal ground wet, thinned to about 70% water and fermented overnight by wild lactic acid bacteria, which sour it and fill it with gas. Cooked from one side only, it becomes a sheet with a dry, brown, crisp base, a lace of holes and a pale, soft top."
+    },
+    {
+      "title": "The tawa and the dancing drops",
+      "text": "A 3 kg cast-iron tawa stores about 1.4 kJ for every degree, so cold batter does not chill it. Cooks test it with water: at roughly 180 to 200 °C drops hiss and vanish in a second; hotter than that they float on their own steam and dance for up to a minute. That is the Leidenfrost effect, and it means too hot: wipe it with a wet cloth or a cut onion."
+    },
+    {
+      "title": "One ladle, one spiral",
+      "text": "Thickness is volume divided by area: 70 mL spread to a 13 cm radius is a film 1.3 mm thick. Batter is shear-thinning, so it turns many times runnier under the moving ladle and thickens again when the ladle lifts. The bottom starts to set the moment it touches the iron, so the spiral has to be quick."
+    },
+    {
+      "title": "Steam out, crust up, colour in",
+      "text": "While any batter is wet it is pinned at 100 °C, because the heat goes into steam (2,257 J per gram) that escapes through the holes. A dry crust grows up from the iron; only then can the base pass about 140 °C and brown by the Maillard reaction. Ferment, a pinch of sugar or chana dal, and a film of oil all help the colour."
+    },
+    {
+      "title": "Why the first fails and the last goes soft",
+      "text": "Wet batter glues itself into the pores of bare iron. Seasoning, a film of oil polymerised onto the metal, and an evenly hot surface stop that, which is why the second dosa lifts clean. On the plate, crisp starch glass soaks up the dosa's own trapped steam and turns leathery in minutes, so a paper roast is rolled and stood up."
+    },
+    {
+      "title": "A family, not one dish",
+      "text": "Spread the same batter to half a millimetre and it is a paper roast; pour it thick and it is a set dosa or an uttapam. Change the batter and you get rava dosa, neer dosa, pesarattu, adai or ragi dosa. Thin films dry through and go crisp; thick ones stay soft."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Tawa",
+      "def": "A flat, heavy griddle. A 30 cm cast-iron dosa tawa weighs about 3 kg and stores about 1.4 kJ of heat per degree."
+    },
+    {
+      "term": "Leidenfrost effect",
+      "def": "On a surface far hotter than its boiling point, a liquid drop floats on a cushion of its own vapour and evaporates slowly. For water on metal it starts at about 200 °C."
+    },
+    {
+      "term": "Film thickness",
+      "def": "The volume of batter divided by the area it covers. One 70 mL ladle spread to a 13 cm radius is 1.3 mm thick."
+    },
+    {
+      "term": "Shear-thinning",
+      "def": "A fluid that gets runnier the faster it is sheared. Dosa batter does it, which is why it spreads easily under the ladle and then stays put."
+    },
+    {
+      "term": "Gelatinisation",
+      "def": "Starch granules swelling and setting when heated in water to about 60 to 75 °C. It turns liquid batter into a sheet."
+    },
+    {
+      "term": "Maillard reaction",
+      "def": "The reaction between sugars and amino acids that makes brown colour and roasted aromas. It runs fast from about 140 °C, so it needs a dry surface."
+    },
+    {
+      "term": "Glassy state",
+      "def": "Dry starch that is hard and brittle, like glass. That is crispness. When it takes up water it turns leathery."
+    },
+    {
+      "term": "Seasoning",
+      "def": "A hard, slick film of polymerised oil baked onto cast iron. It keeps wet batter from gripping the metal."
+    },
+    {
+      "term": "Lace",
+      "def": "The network of small holes in a dosa, left by the ferment's gas bubbles and by steam escaping."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "dosaclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
